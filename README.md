@@ -35,12 +35,10 @@ http://www.math.vt.edu/people/sturler/
 
 - irkaRailTime.m: IRKA that uses rbicg, and provides the time comparison.
 
-Convection folder: 
+### Convection folder: 
 - All *.m files except testConvDiff.m: Sets-up the convection-diffusion problem.
 
 - testConvDiff.m: Call rbicg to solve the convection-diffusion problem.
-
--------------------------------------------------------------------------------------------------
 
 To run model reduction code (assuming you are in parent folder):
 >> cd model_red
