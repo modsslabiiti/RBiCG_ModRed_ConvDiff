@@ -9,7 +9,8 @@ http://www.math.vt.edu/people/kahuja/
 Eric de Sturler   
 sturler@vt.edu  
 http://www.math.vt.edu/people/sturler/
-Parent folder:
+
+### Parent folder:
 - rbicg.m: Code for recycling BiCG.
 
 - rcgs.m: Code for recycling CGS.
@@ -25,7 +26,7 @@ Parent folder:
 - orthogonalize.m: Builds bi-orthogonality between the C's.
 
 
-Model_red folder:
+### Model_red folder:
 - rail_models: These contain the matrices for four model sizes 1357, 5177, 20209, and 79841
 
 - mmread.m: Used to read-in the above models.
