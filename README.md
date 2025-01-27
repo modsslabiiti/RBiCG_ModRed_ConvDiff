@@ -43,10 +43,10 @@ http://www.math.vt.edu/people/sturler/
 To run model reduction code (assuming you are in parent folder):
 ```bash
 
-cd model_red
-irkaRailPlots(1)			% 1 is for size 1357 , 2 is for 5177, 3 for 20209, and 4 for 79841
+>> cd model_red
+>> irkaRailPlots(1)			% 1 is for size 1357 , 2 is for 5177, 3 for 20209, and 4 for 79841
 or
-irkaRailTime(1,0)		% First argument: 1 for 20209 and 2 for 79841
+>> irkaRailTime(1,0)		% First argument: 1 for 20209 and 2 for 79841
 							% Second argument: 0 means no recycling, 1 means use recycling
 
 
