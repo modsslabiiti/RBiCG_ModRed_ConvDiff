@@ -41,10 +41,12 @@ http://www.math.vt.edu/people/sturler/
 - testConvDiff.m: Call rbicg to solve the convection-diffusion problem.
 
 To run model reduction code (assuming you are in parent folder):
->> cd model_red
->> irkaRailPlots(1)			% 1 is for size 1357 , 2 is for 5177, 3 for 20209, and 4 for 79841
+```bash
+
+cd model_red
+irkaRailPlots(1)			% 1 is for size 1357 , 2 is for 5177, 3 for 20209, and 4 for 79841
 or
->> irkaRailTime(1,0)		% First argument: 1 for 20209 and 2 for 79841
+irkaRailTime(1,0)		% First argument: 1 for 20209 and 2 for 79841
 							% Second argument: 0 means no recycling, 1 means use recycling
 
 
